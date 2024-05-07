@@ -1,6 +1,6 @@
 <template>
   <div class="vertical-cell-list">
-    <h1 class="page-title">Рандомные ячейки</h1>
+    <h1 class="page-title">Random Cells</h1>
     <div class="list-container">
       <HorizontalCellList
         v-for="(numbers, index) in data"
