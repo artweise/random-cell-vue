@@ -13,8 +13,8 @@ export default {
   },
   data() {
     return {
-      cellData: [], // Массив данных для ячеек
-      cellSize: 50, // Размер ячейки
+      cellData: [],
+      cellSize: 50,
     };
   },
   created() {
@@ -22,9 +22,8 @@ export default {
   },
   methods: {
     generateCellData() {
-      // Генерация случайных данных для ячеек
-      const rowCount = Math.floor(Math.random() * 20) + 101;
-      console.log('rowCount:', rowCount);
+      const rowCount = Math.floor(Math.random() * 100) + 101;
+      // console.log('rowCount:', rowCount);
       this.cellData = [];
       for (let i = 0; i < rowCount; i++) {
         const innerNumbers = [];
