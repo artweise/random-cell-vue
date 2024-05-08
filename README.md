@@ -4,7 +4,7 @@ This is a Single Page Application (SPA) built with Vue.js. It consists of a sing
 
 ## Design
 
-
+<img width="1201" alt="Снимок экрана 2024-05-08 в 22 28 37" src="https://github.com/artweise/random-cell-vue/assets/95726451/05cd5716-9f6b-45a3-a13f-42678fbd6874">
 
 ## Features
 
@@ -16,10 +16,7 @@ This is a Single Page Application (SPA) built with Vue.js. It consists of a sing
 
 ## Tech Stack
 
-Vue.js
-JavaScript
-HTML
-CSS
+Vue.js | JavaScript | HTML | CSS
 
 ## Installation
 
